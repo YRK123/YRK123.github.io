@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Retro Games
 layout: post
 author: yuvva-raj.khantharuban
 permalink: /untitled-document/
