@@ -1,3 +1,4 @@
+
 ---
 ---
 
@@ -16,6 +17,22 @@
 html {
   font-size: 100%;
 }
+table {
+     border-collapse: collapse;
+}
+ table, th, td {
+     border: 1px solid #990099;
+     width: 100%;
+     height:50px;
+     text-align: left;
+     padding: 15px;
+     border-bottom: 1px solid #ddd
+} 
+#table1 {
+    border-collapse: seperate;
+    border-spacing: 15px;
+}
+
 
 body {
   background-image: url("https://www.planwallpaper.com/static/images/6984999-cool-lights_cJkYD47.jpg");	
