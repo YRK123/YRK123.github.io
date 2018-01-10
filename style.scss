@@ -47,12 +47,14 @@ h1, h2, h3, h4, h5, h6 {
   @include mobile {
     line-height: 1.4;
   }
+
 }
 
 h1 {
   font-size: 30px;
+  color: #ffffff;
   a {
-    color: inherit;
+     color: #ffffff;
   }
 }
 
@@ -125,6 +127,30 @@ img {
   color: $gray;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+	border-radius: 25px;
+}
+
+table, th, td {
+   border: 1px solid black;
+	background-color: #edd2f9;
+	
+}
+
+td {
+   vertical-align: middle; 
+   padding: 10px;
+}	
+
+th {
+   color: black;
+   background: #ffffff;
+   height:50px;
+   vertical-align: middle;
+}
+	
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
