@@ -1,8 +1,8 @@
 ---
-title: Untitled document
+title: Space Invaders on Scratch
 layout: post
 author: yuvva-raj.khantharuban
-permalink: /untitled-document/
+permalink: /Space Invaders on Scratch/
 source-id: 1fC1jC8tzhmDgYz-msorxIHtx-KDfefcBhwvGRu9s2d8
 published: true
 ---
