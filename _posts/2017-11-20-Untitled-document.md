@@ -2,7 +2,7 @@
 title: Retro Games
 layout: post
 author: yuvva-raj.khantharuban
-permalink: /untitled-document/
+permalink: /8-11-17-first-blog/
 source-id: 1VRhvNB6He5LjqzWU07DDuQTLs3lZACVv-Tc1wvL0iEo
 published: true
 ---
