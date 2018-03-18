@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a 12 year old student at Dr Challoners Grammar School in Amersham Buckinghamshire. My hobbies are playing Fortnite, doing Maths and playing Football 
 
-### More Information
+### I made this blog to give weekly updates on my IT lessons and the progress I make on them. I hope you enjoy this.
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yuvva-raj.khantharuban@challoners.org](mailto:yuvva-raj.khantharuban@challoners.org)
